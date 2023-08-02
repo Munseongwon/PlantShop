@@ -4,7 +4,7 @@
 
 ## 프로젝트 요약
 ![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
-> 2023.02.01 - 2023.02.22   
+> 2023.01.02 - 2023.01.16   
  
 > **Flutter 개인 프로젝트**
 * Flutter 위젯에 대한 이해도를 높이고자 진행한 UI 프로젝트입니다.
