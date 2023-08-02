@@ -1,26 +1,22 @@
 # PlantShop
 ### Flutter UI Exercise Mini App Plant Shop
-<img src="screen.png" alt="Whole Screen" width="1280px" height="500px">
+<img src="plantApp.png" alt="Whole Screen" width="1280px" height="500px">
 
 ## 프로젝트 요약
 ![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
-> 2023.04.17 - 2023.04.24   
+> 2023.02.01 - 2023.02.22   
  
 > **Flutter 개인 프로젝트**
-* GetX 상태관리를 활용하여 만들어 본 todo 어플리케이션입니다.
-* Task CURD 구현을 위하여 'lib/home/controller' 에 CRUD 기능이 포함되어 있는 메소드를 추가
-* dotted_border 카드 위젯을 사용
-* step_progress_indicator 패키지를 사용하여 현재 할 일의 진도가 어느 정도인지를 UI로 나타냄
+* Flutter 위젯에 대한 이해도를 높이고자 진행한 UI 프로젝트입니다.
+* UI 주 색깔은 식물 이라는 키워드에 맞게 초록색을 선정하였습니다.
+* 플러터를 배우고 난 지 얼마 안된 시점에 제작하였습니다.
+* Row, Column, Expanded, Scaffold, FloatingActionButton 등의 위젯의 기본 사용법을 유튜브 강의를 통해 학습한 후 적절히 배치하여 만들었습니다.
+* BottomNavigatonBar, PageTransition을 통한 하단 메뉴바에 의한 페이지 이동을 애니메이션으로 구현하였습니다.
 <br>
 
 ## Dependency
-- `dotted_border`:  <a target="_blank" href="https://pub.dev/packages/dotted_border">https://pub.dev/packages/dotted_border</a>
-- `equatable`: <a target="_blank" href="https://pub.dev/packages/equatable">https://pub.dev/packages/equatable</a>
-- `flutter_easyloading`: <a target="_blank" href="https://pub.dev/packages/flutter_easyloading">https://pub.dev/packages/flutter_easyloading</a>
-- `get`:  <a target="_blank" href="https://pub.dev/packages/get">https://pub.dev/packages/get</a>
-- `get_storage`: <a target="_blank" href="https://pub.dev/packages/get_storage">https://pub.dev/packages/get_storage/http</a>
-- `intl`: <a target="_blank" href="https://pub.dev/packages/intl"https://pub.dev/packages/intl</a>
-- `step_progress_indicator`: <a target="_blank" href="https://pub.dev/packages/step_progress_indicator">https://pub.dev/packages/step_progress_indicator</a>
+- `page_transition`:  <a target="_blank" href="https://pub.dev/packages/page_transition">https://pub.dev/packages/page_transition</a>
+- `animated_bottom_navigation_bar`: <a target="_blank" href="https://pub.dev/packages/animated_bottom_navigation_bar">https://pub.dev/packages/animated_bottom_navigation_bar</a>
 
 ## 시연영상
-https://youtu.be/JIkdfyKFCjk
+https://youtu.be/w6mpNLfXnX4
